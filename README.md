@@ -7,6 +7,7 @@
 PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mjashley.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjashley.com)
+[![Imogen Labs](https://img.shields.io/badge/Imogen_Labs-imogenlabs.ai-FF6B00?style=for-the-badge&logo=lightning&logoColor=white)](https://imogenlabs.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mjashley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjashley1/)
 [![npm](https://img.shields.io/badge/npm-operator--kit-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@imogenlabs/operator-kit)
 
@@ -33,7 +34,7 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 
 **[MediaClaw](https://media.imogenlabs.ai)** — Managed Plex + arr stack hosting on dedicated hardware.
 
-**NeuroHelper** — iOS wellness app for ADHD & autism. SwiftUI + Claude API.
+**[NeuroHelper](https://imogenlabs.ai/neurohelper)** — iOS wellness app for ADHD & autism. SwiftUI + Claude API.
 
 **[Mission Control](https://mjashley.com)** — Ops dashboard for AI agents. Task board, cron monitoring, memory browser.
 
