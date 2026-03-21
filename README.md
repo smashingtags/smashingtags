@@ -27,6 +27,8 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 
 **[Operator Kit](https://www.npmjs.com/package/@imogenlabs/operator-kit)** — OpenClaw plugin: identity, memory, instincts, cron, multi-agent dispatch. Free on npm.
 
+**[Imogen Labs](https://imogenlabs.ai)** — AI-native software company. Everything I build ships from here.
+
 </td>
 <td width="50%">
 
