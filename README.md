@@ -2,7 +2,7 @@
 
 # Hey, I'm Michael 👋
 
-**Founder of [Imogen Labs](https://imogenlabs.ai) · Building production software with an AI engineering partner**
+**The Technical Program Manager of [Imogen Labs](https://imogenlabs.ai) · Building production software with an AI engineering partner**
 
 PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 
