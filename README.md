@@ -82,6 +82,18 @@ Hetzner Bare Metal     →  Managed hosting (OpenClaw + MediaClaw)
 Unraid NAS             →  55TB storage, PBS backups, media
 ```
 
+### 🔄 CI/CD Pipeline
+
+```
+GitHub Actions   →  Multi-arch Docker builds (amd64 + arm64) on every push
+GHCR             →  Container registry for CE, PE, and all web properties
+Watchtower       →  Automated rolling deploys — zero-downtime on push to main
+3-tier flow      →  dev → staging (7-day soak) → main
+GitHub Pages     →  Wiki auto-deploys on wiki/ changes to main
+Playwright E2E   →  19 functional tests gate every PR before merge
+Dependabot       →  Automated dependency security PRs
+```
+
 ### 🤖 AI Engineering
 
 I run **Imogen** — an AI operator built on [OpenClaw](https://openclaw.ai) that handles ops 24/7 across Telegram, Discord, and iMessage. She dispatches tasks to coding agents, runs cron jobs, monitors infrastructure, and manages memory across sessions. Published the architecture as [@imogenlabs/operator-kit](https://www.npmjs.com/package/@imogenlabs/operator-kit) on npm.
