@@ -69,7 +69,7 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 
 ```
 Mac Mini M4            →  Build server, OpenClaw gateway, Claude Code
-MacBook Pro            →  Dev machine
+MacBook Pro M1 Pro     →  Dev machine — 10c, 16GB RAM, macOS 26.3.1
 iPhone 11 Pro Max      →  iOS testing
 iPhone 13 mini         →  iOS testing
 iPhone 15 Pro Max      →  iOS testing (primary)
