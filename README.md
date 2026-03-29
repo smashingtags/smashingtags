@@ -68,11 +68,14 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 ### 🏗️ Infrastructure
 
 ```
-Mac Mini M4          →  Build server, OpenClaw gateway, Claude Code
-Docker Host (195)    →  34+ production containers, Traefik, all websites  
-Proxmox Cluster      →  VMs and LXCs across 2 nodes
-Hetzner Bare Metal   →  Managed hosting (OpenClaw + MediaClaw)
-Unraid NAS           →  55TB storage, PBS backups, media
+Mac Mini M4            →  Build server, OpenClaw gateway, Claude Code
+Docker Host (195)      →  67+ production containers, Traefik, all websites
+Proxmox ms01 (49)      →  Main host — 20c / 96GB RAM — production VMs + LXCs
+Proxmox 183            →  Dev/testing host — VMs + LXCs
+Dell R730xd            →  3rd Proxmox node (offline) — 2x Xeon, 256GB DDR4, 12-bay
+UniFi Stack            →  UDM Pro, 48-port switch, 10GbE aggregate, UPS, 2x PDUs
+Hetzner Bare Metal     →  Managed hosting (OpenClaw + MediaClaw)
+Unraid NAS             →  55TB storage, PBS backups, media
 ```
 
 ### 🤖 AI Engineering
