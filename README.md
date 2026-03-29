@@ -21,7 +21,7 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 <tr>
 <td width="50%">
 
-**[HomelabARR CE](https://github.com/smashingtags/homelabarr-ce)** — Free Docker management with 137 app templates. One-click deployment with Traefik + Authelia scaffolding. MIT licensed.
+**[HomelabARR CE](https://github.com/smashingtags/homelabarr-ce)** — Free Docker management with 100+ app templates. One-click deployment with Traefik + Authelia scaffolding. MIT licensed.
 
 **[AI Agent Templates](https://agents.imogenlabs.ai)** — 9 production-tested OpenClaw configs. Docker monitoring, security audits, crypto alerts, content automation. All free APIs.
 
