@@ -128,6 +128,7 @@ CodeQL           →  Static analysis on every PR — SAST for JS/TS
 Snyk             →  Container + dependency vulnerability scanning
 Dependabot       →  Automated dependency security PRs
 Codex scan       →  AI-assisted security review on sensitive changesets
+Docker Scout     →  Image vulnerability scanning on every built container
 ```
 
 ### 🤖 AI Engineering
