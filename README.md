@@ -72,7 +72,6 @@ Agent Templates      →  First international sale — News & Sentiment Agent
 
 - [Session = Sprint: How I Ship Production Software with an AI Partner](https://mjashley.com/blog/session-equals-sprint)
 - [Why I Built HomelabARR](https://mjashley.com/blog/why-i-built-homelabarr)
-- [Building with AuDHD: The Unexpected Superpower](https://mjashley.com/blog/building-with-audhd)
 - [The Archaeology of a Fork](https://mjashley.com/blog/archaeology-of-a-fork)
 - [First Dollar as a Founder](https://mjashley.com/blog/first-dollar-as-founder)
 
