@@ -2,14 +2,28 @@
 
 # Hey, I'm Michael 👋
 
-**The Technical Program Manager of [Imogen Labs](https://imogenlabs.ai) · Building production software with an AI engineering partner**
+**Technical Program Manager · AI-native product builder · Open to TPM / Senior PM roles**
 
-PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
-
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-TPM_%2F_Senior_PM-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjashley1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mjashley.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjashley.com)
 [![Imogen Labs](https://img.shields.io/badge/Imogen_Labs-imogenlabs.ai-FF6B00?style=for-the-badge&logo=lightning&logoColor=white)](https://imogenlabs.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mjashley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjashley1/)
 [![npm](https://img.shields.io/badge/npm-operator--kit-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@imogenlabs/operator-kit)
+
+</div>
+
+---
+
+### 🎯 Certifications & Credentials
+
+<div align="center">
+
+[![PSM I](https://img.shields.io/badge/PSM_I-Scrum.org-blue?style=flat-square&logo=scrumalliance&logoColor=white)](https://www.scrum.org/user/michael-ashley)
+[![CSPO](https://img.shields.io/badge/CSPO-Scrum_Alliance-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)](https://www.scrumalliance.org/)
+[![SAFe 6](https://img.shields.io/badge/SAFe_6_Agilist-Scaled_Agile-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](https://scaledagile.com/)
+[![Google PM](https://img.shields.io/badge/Google_PM_Professional-Coursera-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev%2Fimogenlabs-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/imogenlabs)
+[![Cloud Innovator](https://img.shields.io/badge/Google_Cloud_Innovator-2022-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://g.dev/imogenlabs)
 
 </div>
 
@@ -43,6 +57,26 @@ PSM I · CSPO · SAFe 6 Agilist · Google PM Professional
 </td>
 </tr>
 </table>
+
+### 📈 Traction
+
+```
+operator-kit (npm)   →  251 downloads last 30 days
+HomelabARR CE        →  2 GitHub stars · active Discord community
+HomelabARR Mobile    →  Live on TestFlight · Android APK published
+MediaClaw            →  Paying customers on dedicated Hetzner hardware
+Agent Templates      →  First sale: Lijin Thomas, India — News & Sentiment Agent
+```
+
+### ✍️ Writing
+
+- [Session = Sprint: How I Ship Production Software with an AI Partner](https://mjashley.com/blog/session-equals-sprint)
+- [Why I Built HomelabARR](https://mjashley.com/blog/why-i-built-homelabarr)
+- [Building with AuDHD: The Unexpected Superpower](https://mjashley.com/blog/building-with-audhd)
+- [The Archaeology of a Fork](https://mjashley.com/blog/archaeology-of-a-fork)
+- [First Dollar as a Founder](https://mjashley.com/blog/first-dollar-as-founder)
+
+→ More at [mjashley.com/blog](https://mjashley.com/blog)
 
 ### ⚡ Tech Stack
 
