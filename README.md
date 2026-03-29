@@ -4,6 +4,8 @@
 
 **Technical Program Manager · AI-native product builder · Open to TPM / Senior PM roles**
 
+I lead product, release, and infrastructure delivery across AI, homelab, and developer tooling projects.
+
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-TPM_%2F_Senior_PM-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mjashley1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mjashley.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mjashley.com)
 [![Imogen Labs](https://img.shields.io/badge/Imogen_Labs-imogenlabs.ai-FF6B00?style=for-the-badge&logo=lightning&logoColor=white)](https://imogenlabs.ai)
