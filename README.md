@@ -65,7 +65,7 @@ operator-kit (npm)   →  251 downloads last 30 days
 HomelabARR CE        →  2 GitHub stars · active Discord community
 HomelabARR Mobile    →  Live on TestFlight · Android APK published
 MediaClaw            →  Paying customers on dedicated Hetzner hardware
-Agent Templates      →  First sale: Lijin Thomas, India — News & Sentiment Agent
+Agent Templates      →  First international sale — News & Sentiment Agent
 ```
 
 ### ✍️ Writing
