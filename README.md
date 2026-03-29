@@ -124,7 +124,10 @@ Watchtower       →  Automated rolling deploys — zero-downtime on push to mai
 3-tier flow      →  dev → staging (7-day soak) → main
 GitHub Pages     →  Wiki auto-deploys on wiki/ changes to main
 Playwright E2E   →  19 functional tests gate every PR before merge
+CodeQL           →  Static analysis on every PR — SAST for JS/TS
+Snyk             →  Container + dependency vulnerability scanning
 Dependabot       →  Automated dependency security PRs
+Codex scan       →  AI-assisted security review on sensitive changesets
 ```
 
 ### 🤖 AI Engineering
