@@ -1,4 +1,4 @@
-# Michael Ashley
+
 
 Founder, [Imogen Labs](https://imogenlabs.ai) — building agent-native infrastructure.
 
