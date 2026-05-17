@@ -1,5 +1,7 @@
 Founder, [Imogen Labs](https://imogenlabs.ai) — building agent-native infrastructure.
 
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> &nbsp; [mjashley](https://www.linkedin.com/in/mjashley/)
+
 **Active products:**
 - [Eight.ly OS](https://eight.ly) — homelab operating system featuring NAS + Virtualization + Container management.
 - [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server) — Standalone backup server for Eight.ly OS with dedup + encryption
