@@ -1,5 +1,3 @@
-
-
 Founder, [Imogen Labs](https://imogenlabs.ai) — building agent-native infrastructure.
 
 **Active products:**
@@ -11,3 +9,5 @@ Founder, [Imogen Labs](https://imogenlabs.ai) — building agent-native infrastr
 - [IPAC](https://github.com/smashingtags/ipac) — Integrated Personality as Code
 
 [mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai)
+
+![](https://komarev.com/ghpvc/?username=smashingtags&color=blue&style=flat-square)
