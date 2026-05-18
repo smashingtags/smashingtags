@@ -8,7 +8,7 @@ Senior Product / Program / Technical PM · 7 years Scrum · Building agentic sof
 
 ### About
 
-I run a one-person software company that ships real products with an AI engineering partner. Every product — from a NAS operating system to an iOS wellness app — is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
+I run a one-person software company that ships real products with an AI engineering partner. Every product, from a NAS operating system to an iOS wellness app — is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
 
 Twelve-plus years in technical program and product management before that. Previously Software PM at Neptune Technology Group (12 Scrum teams, .NET MAUI platform), Senior TPM at Healthcare Integrations (SaaS portfolio), and TPM at G5 TEK.
 
