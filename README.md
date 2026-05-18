@@ -5,8 +5,7 @@ Founder, [Imogen Labs](https://imogenlabs.ai) — building agent-native infrastr
 ### Certifications
 
 <a href="https://www.credly.com/badges/57b7315d-9c49-400d-91ed-78f27f0041c5" title="Professional Scrum Master I (PSM I)"><img src="https://images.credly.com/size/80x80/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="PSM I" width="80" height="80"></a>
-<a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/images/default-source/badges/cspo-badge.png" alt="CSPO" width="80" height="80"></a>
-
+<a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/badges/sa-cspo-300.png" alt="CSPO" width="80" height="80"></a>
 **Active products:**
 - [Eight.ly OS](https://eight.ly) — homelab operating system featuring NAS + Virtualization + Container management.
 - [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server) — Standalone backup server for Eight.ly OS with dedup + encryption
