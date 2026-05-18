@@ -1,4 +1,6 @@
-Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
+# Michael Ashley
+
+## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
 
 Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software
 
