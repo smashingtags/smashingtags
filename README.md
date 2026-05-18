@@ -10,7 +10,7 @@ Senior Product / Program / Technical PM · 7 years Scrum · Building agentic sof
 
 ### About
 
-I run a one-person software company that ships real products with an AI engineering partner. Every product, from a NAS operating system to an iOS wellness app — is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
+I run a one-person software company that ships real products with an AI engineering partner. Every product, from a NAS operating system to an iOS wellness app, is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
 
 Twelve-plus years in technical program and product management before that. Previously Software PM at Neptune Technology Group (12 Scrum teams, .NET MAUI platform), Senior TPM at Healthcare Integrations (SaaS portfolio), and TPM at G5 TEK.
 
@@ -23,21 +23,21 @@ PSM·CSPO·SA
 [All Credentials](https://www.credly.com/users/mjashley/badges)
 
 **Active products:**
-- [Eight.ly OS](https://eight.ly) — homelab operating system featuring NAS + Virtualization + Container management.
-- [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server) — Standalone backup server for Eight.ly OS with dedup + encryption
-- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710) — daily wellness companion for iOS
-- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce) — free homelab dashboard with 3,000+ Docker templates
-- [cf-companion](https://github.com/smashingtags/cf-companion) — auto-create Cloudflare DNS records for Traefik containers
-- [IPAC](https://github.com/smashingtags/ipac) — Integrated Personality as Code
-- [Operator Kit](https://github.com/smashingtags/operator-kit) — OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
+- [Eight.ly OS](https://eight.ly): homelab operating system featuring NAS + Virtualization + Container management.
+- [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server): Standalone backup server for Eight.ly OS with dedup + encryption
+- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS
+- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard with 3,000+ Docker templates
+- [cf-companion](https://github.com/smashingtags/cf-companion): auto-create Cloudflare DNS records for Traefik containers
+- [IPAC](https://github.com/smashingtags/ipac): Integrated Personality as Code
+- [Operator Kit](https://github.com/smashingtags/operator-kit): OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
 
 ### Currently building
 
-- **Eight.ly OS Professional** — R730XD storage testing with SnapRAID + MergerFS, CI pipeline green, Docker image on GHCR
-- **NeuroHelper** — live on the App Store, shipping ongoing updates ([App Store →](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710))
-- **OpenClaw Managed Hosting** — automated Stripe → Hetzner LXC provisioning, Traefik routing, AgentMail onboarding ($29–89/mo)
-- **MediaClaw** — managed Plex + arr-stack hosting on Hetzner bare metal ($19–129/mo)
-- **Operator Kit** — [@imogenlabs/operator-kit on npm](https://www.npmjs.com/package/@imogenlabs/operator-kit), shipping new templates
+- **Eight.ly OS Professional**: R730XD storage testing with SnapRAID + MergerFS, CI pipeline green, Docker image on GHCR
+- **NeuroHelper**: live on the App Store, shipping ongoing updates ([App Store →](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710))
+- **OpenClaw Managed Hosting**: automated Stripe → Hetzner LXC provisioning, Traefik routing, AgentMail onboarding ($29-89/mo)
+- **MediaClaw**: managed Plex + arr-stack hosting on Hetzner bare metal ($19-129/mo)
+- **Operator Kit**: [@imogenlabs/operator-kit on npm](https://www.npmjs.com/package/@imogenlabs/operator-kit), shipping new templates
 
 ### How I work
 
@@ -62,15 +62,15 @@ TypeScript · Go · SwiftUI · React · Next.js · Astro · Python · Docker · 
 
 ### Writing
 
-Building in public — 54+ posts on real engineering problems, agentic dev workflows, and shipping software with an AI partner.
+Building in public. 54+ posts on real engineering problems, agentic dev workflows, and shipping software with an AI partner.
 
 [Read the blog →](https://mjashley.com/writing)
 
 Recent posts:
-- [*Twenty attempts at a gap*](https://mjashley.com/writing/twenty-attempts-at-a-gap) — a 7-pixel layout gap that took twenty deploys
-- [*Eight.ly Professional had no auth. Now it does.*](https://mjashley.com/writing/auth-from-nothing) — replacing security theater with a real auth layer
-- [*I split five monolith files and built back cleaner*](https://mjashley.com/writing/monolith-split-eight-go-files) — 6,463 lines of Go into 28 focused modules
-- [*The CPU widget was stuck at zero for months*](https://mjashley.com/writing/cpu-stuck-at-zero) — load-average ÷ cores × 100 is not CPU usage
+- [*Twenty attempts at a gap*](https://mjashley.com/writing/twenty-attempts-at-a-gap): a 7-pixel layout gap that took twenty deploys
+- [*Eight.ly Professional had no auth. Now it does.*](https://mjashley.com/writing/auth-from-nothing): replacing security theater with a real auth layer
+- [*I split five monolith files and built back cleaner*](https://mjashley.com/writing/monolith-split-eight-go-files): 6,463 lines of Go into 28 focused modules
+- [*The CPU widget was stuck at zero for months*](https://mjashley.com/writing/cpu-stuck-at-zero): load-average ÷ cores × 100 is not CPU usage
 
 ### Find me
 
