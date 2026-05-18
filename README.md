@@ -67,10 +67,10 @@ Building in public — 54+ posts on real engineering problems, agentic dev workf
 [Read the blog →](https://mjashley.com/writing)
 
 Recent posts:
-- *Twenty attempts at a gap* — a 7-pixel layout gap that took twenty deploys
-- *Eight.ly Professional had no auth. Now it does.* — replacing security theater with a real auth layer
-- *I split five monolith files and built back cleaner* — 6,463 lines of Go into 28 focused modules
-- *The CPU widget was stuck at zero for months* — load-average ÷ cores × 100 is not CPU usage
+- [*Twenty attempts at a gap*](https://mjashley.com/writing/twenty-attempts-at-a-gap) — a 7-pixel layout gap that took twenty deploys
+- [*Eight.ly Professional had no auth. Now it does.*](https://mjashley.com/writing/auth-from-nothing) — replacing security theater with a real auth layer
+- [*I split five monolith files and built back cleaner*](https://mjashley.com/writing/monolith-split-eight-go-files) — 6,463 lines of Go into 28 focused modules
+- [*The CPU widget was stuck at zero for months*](https://mjashley.com/writing/cpu-stuck-at-zero) — load-average ÷ cores × 100 is not CPU usage
 
 ### Find me
 
