@@ -29,6 +29,14 @@ PSM·CSPO·SA
 - [IPAC](https://github.com/smashingtags/ipac) — Integrated Personality as Code
 - [Operator Kit](https://github.com/smashingtags/operator-kit) — OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
 
+### Currently building
+
+- **Eight.ly OS Professional** — R730XD storage testing with SnapRAID + MergerFS, CI pipeline green, Docker image on GHCR
+- **NeuroHelper** — live on the App Store, shipping ongoing updates ([App Store →](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710))
+- **OpenClaw Managed Hosting** — automated Stripe → Hetzner LXC provisioning, Traefik routing, AgentMail onboarding ($29–89/mo)
+- **MediaClaw** — managed Plex + arr-stack hosting on Hetzner bare metal ($19–129/mo)
+- **Operator Kit** — [@imogenlabs/operator-kit on npm](https://www.npmjs.com/package/@imogenlabs/operator-kit), shipping new templates
+
 ### How I work
 
 - **Real SDLC.** Jira boards with story points and sprint planning · Confluence ADRs, runbooks, and architecture docs · 384 tracked issues across active projects
@@ -40,6 +48,8 @@ PSM·CSPO·SA
 
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smashingtags&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/smashingtags)
 
+[![Contribution graph](https://ghchart.rshah.org/409ba5/smashingtags)](https://github.com/smashingtags)
+
 ![Followers](https://img.shields.io/github/followers/smashingtags?label=followers&style=for-the-badge&color=blue) ![Public repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmashingtags&style=for-the-badge&color=blueviolet) ![On GitHub since](https://img.shields.io/github/created-at/smashingtags/smashingtags?label=on%20github%20since&style=for-the-badge&color=success) ![Profile views](https://komarev.com/ghpvc/?username=smashingtags&label=profile%20views&color=orange&style=for-the-badge) ![Total stars](https://img.shields.io/github/stars/smashingtags?affiliations=OWNER&style=for-the-badge&label=total%20stars&color=yellow)
 
 **14** products shipped · **34+** services in production · **99.9%** 30-day uptime · **0** investors
@@ -47,6 +57,18 @@ PSM·CSPO·SA
 ### Stack
 
 TypeScript · Go · SwiftUI · React · Next.js · Astro · Python · Docker · Proxmox · SnapRAID · GitHub Actions · Jira · OpenClaw · Claude API
+
+### Writing
+
+Building in public — 54+ posts on real engineering problems, agentic dev workflows, and shipping software with an AI partner.
+
+[Read the blog →](https://mjashley.com/writing)
+
+Recent posts:
+- *Twenty attempts at a gap* — a 7-pixel layout gap that took twenty deploys
+- *Eight.ly Professional had no auth. Now it does.* — replacing security theater with a real auth layer
+- *I split five monolith files and built back cleaner* — 6,463 lines of Go into 28 focused modules
+- *The CPU widget was stuck at zero for months* — load-average ÷ cores × 100 is not CPU usage
 
 ### Find me
 
