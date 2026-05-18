@@ -38,6 +38,8 @@ PSM·CSPO·SA
 
 ### By the numbers
 
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smashingtags&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/smashingtags)
+
 ![Followers](https://img.shields.io/github/followers/smashingtags?label=followers&style=for-the-badge&color=blue) ![Public repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmashingtags&style=for-the-badge&color=blueviolet) ![On GitHub since](https://img.shields.io/github/created-at/smashingtags/smashingtags?label=on%20github%20since&style=for-the-badge&color=success) ![Profile views](https://komarev.com/ghpvc/?username=smashingtags&label=profile%20views&color=orange&style=for-the-badge) ![Total stars](https://img.shields.io/github/stars/smashingtags?affiliations=OWNER&style=for-the-badge&label=total%20stars&color=yellow)
 
 **14** products shipped · **34+** services in production · **99.9%** 30-day uptime · **0** investors
