@@ -38,8 +38,7 @@ PSM·CSPO·SA
 
 ### By the numbers
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=smashingtags&show_icons=true&hide=stars,issues,prs&hide_title=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&card_width=320&custom_title=Contributions)
-![Public repos](https://img.shields.io/github/followers/smashingtags?label=followers&style=flat-square) ![Public repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmashingtags&style=flat-square) ![Years on GitHub](https://img.shields.io/github/created-at/smashingtags/smashingtags?label=on%20github%20since&style=flat-square)
+![Followers](https://img.shields.io/github/followers/smashingtags?label=followers&style=for-the-badge&color=blue) ![Public repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmashingtags&style=for-the-badge&color=blueviolet) ![On GitHub since](https://img.shields.io/github/created-at/smashingtags/smashingtags?label=on%20github%20since&style=for-the-badge&color=success) ![Profile views](https://komarev.com/ghpvc/?username=smashingtags&label=profile%20views&color=orange&style=for-the-badge) ![Total stars](https://img.shields.io/github/stars/smashingtags?affiliations=OWNER&style=for-the-badge&label=total%20stars&color=yellow)
 
 **14** products shipped · **34+** services in production · **99.9%** 30-day uptime · **0** investors
 
@@ -50,5 +49,3 @@ TypeScript · Go · SwiftUI · React · Next.js · Astro · Python · Docker · 
 ### Find me
 
 [mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · michael@mjashley.com
-
-![](https://komarev.com/ghpvc/?username=smashingtags&color=blue&style=flat-square)
