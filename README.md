@@ -4,6 +4,14 @@ Senior Product / Program / Technical PM · 7 years Scrum · Building agentic sof
 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> &nbsp; [mjashley](https://www.linkedin.com/in/mjashley/) · Open to AI roles
 
+📍 Duluth, GA · 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 🏠 [homelabarr.com](https://homelabarr.com)
+
+### About
+
+I run a one-person software company that ships real products with an AI engineering partner. Every product — from a NAS operating system to an iOS wellness app — is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
+
+Twelve-plus years in technical program and product management before that. Previously Software PM at Neptune Technology Group (12 Scrum teams, .NET MAUI platform), Senior TPM at Healthcare Integrations (SaaS portfolio), and TPM at G5 TEK.
+
 ### Certifications
 
 PSM·CSPO·SA
@@ -19,7 +27,28 @@ PSM·CSPO·SA
 - [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce) — free homelab dashboard with 3,000+ Docker templates
 - [cf-companion](https://github.com/smashingtags/cf-companion) — auto-create Cloudflare DNS records for Traefik containers
 - [IPAC](https://github.com/smashingtags/ipac) — Integrated Personality as Code
+- [Operator Kit](https://github.com/smashingtags/operator-kit) — OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
 
-[mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai)
+### How I work
+
+- **Real SDLC.** Jira boards with story points and sprint planning · Confluence ADRs, runbooks, and architecture docs · 384 tracked issues across active projects
+- **AI-augmented development.** 13-agent auto-router (prototype Jan 2025, production Aug 2025) · OpenClaw operator (Imogen) running 24/7 with cron-driven briefings and monitoring · published [@imogenlabs/operator-kit](https://www.npmjs.com/package/@imogenlabs/operator-kit) to npm
+- **Own infrastructure.** Proxmox cluster (VMs + LXC) · multi-node Docker hosts · R730XD with SnapRAID + MergerFS · Traefik v3 reverse proxy · Cloudflare zero-trust tunnels · Mac Mini M4 for CI/CD
+- **CI/CD & security.** GitHub Actions, multi-arch Docker builds on GHCR, semver releases · automated scanning with CodeQL, Snyk, Dependabot, and Docker Scout
+
+### By the numbers
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=smashingtags&show_icons=true&hide=stars,issues,prs&hide_title=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&card_width=320&custom_title=Contributions)
+![Public repos](https://img.shields.io/github/followers/smashingtags?label=followers&style=flat-square) ![Public repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsmashingtags&style=flat-square) ![Years on GitHub](https://img.shields.io/github/created-at/smashingtags/smashingtags?label=on%20github%20since&style=flat-square)
+
+**14** products shipped · **34+** services in production · **99.9%** 30-day uptime · **0** investors
+
+### Stack
+
+TypeScript · Go · SwiftUI · React · Next.js · Astro · Python · Docker · Proxmox · SnapRAID · GitHub Actions · Jira · OpenClaw · Claude API
+
+### Find me
+
+[mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · michael@mjashley.com
 
 ![](https://komarev.com/ghpvc/?username=smashingtags&color=blue&style=flat-square)
