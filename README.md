@@ -28,7 +28,7 @@ PSM·CSPO·SA
 - [Eight.ly OS](https://eight.ly): homelab operating system featuring NAS + Virtualization + Container management.
 - [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server): Standalone backup server for Eight.ly OS with dedup + encryption
 - [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS
-- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard with 3,000+ Docker templates
+- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard, 137+ one-click apps (3,400+ templates available in the full Eight.ly catalog)
 - [cf-companion](https://github.com/smashingtags/cf-companion): auto-create Cloudflare DNS records for Traefik containers
 - [IPAC](https://github.com/smashingtags/ipac): Integrated Personality as Code
 - [Operator Kit](https://github.com/smashingtags/operator-kit): OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
@@ -44,7 +44,7 @@ PSM·CSPO·SA
 ### How I work
 
 - **Real SDLC.** Jira boards with story points and sprint planning · Confluence ADRs, runbooks, and architecture docs · 384 tracked issues across active projects
-- **AI-augmented development.** 13-agent auto-router (prototype Jan 2025, production Aug 2025) · OpenClaw operator (Imogen) running 24/7 with cron-driven briefings and monitoring · published [@imogenlabs/operator-kit](https://www.npmjs.com/package/@imogenlabs/operator-kit) to npm
+- **AI-augmented development.** 13-agent auto-router in production since Aug 2025 · OpenClaw operator (Imogen) running 24/7 with cron-driven briefings and monitoring · published [@imogenlabs/operator-kit](https://www.npmjs.com/package/@imogenlabs/operator-kit) to npm
 - **Own infrastructure.** Proxmox cluster (VMs + LXC) · multi-node Docker hosts · R730XD with SnapRAID + MergerFS · Traefik v3 reverse proxy · Cloudflare zero-trust tunnels · Mac Mini M4 for CI/CD
 - **CI/CD & security.** GitHub Actions, multi-arch Docker builds on GHCR, semver releases · automated scanning with CodeQL, Snyk, Dependabot, and Docker Scout
 
@@ -76,4 +76,6 @@ Recent posts:
 
 ### Find me
 
-[mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · michael@mjashley.com
+[mjashley.com](https://mjashley.com) · [eight.ly](https://eight.ly) · [imogenlabs.ai](https://imogenlabs.ai) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · [Discord](https://discord.gg/Pc7mXX786x) · [@Imogen_Labs](https://x.com/Imogen_Labs) · michael@mjashley.com
+
+Building in public. Come hang out in [Discord](https://discord.gg/Pc7mXX786x) or follow along on [X](https://x.com/Imogen_Labs).
