@@ -4,12 +4,9 @@
 
 Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software
 
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">   [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
 
 > **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.**
->
-> 
-
 
 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 💾 [eight.ly](https://eight.ly) · 🏠 [homelabarr.com](https://homelabarr.com)
 
@@ -23,15 +20,11 @@ Twelve-plus years in technical program and product management before that. Previ
 
 <a href="https://www.credly.com/badges/57b7315d-9c49-400d-91ed-78f27f0041c5" title="Professional Scrum Master I (PSM I)"><img src="./psm-i-badge.png" alt="PSM I" width="80" height="80"></a><a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/badges/sa-cspo-300.png" alt="CSPO" width="80" height="80"></a><a href="https://www.credly.com/badges/da7c17ea-e07b-4fc5-858c-b8e81309a2c5" title="SAFe 6 Agilist (SA)"><img src="https://github.com/user-attachments/assets/551aafad-5072-440c-b22d-793eaffed07f" alt="SAFe 6 Agilist" width="80" height="80"></a>
 
-[Credly Badges](https://www.credly.com/users/mjashley/badges)
-
 **Active products:**
 - [Eight.ly OS](https://eight.ly): homelab operating system featuring NAS + Virtualization + Container management.
 - [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server): Standalone backup server for Eight.ly OS with dedup + encryption
-- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS live on the App Store, shipping ongoing updates
-- <a href="https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
-- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard, 137+ one-click apps
-- <a href="https://apps.apple.com/us/app/homelabarr-mobile/id6761244772"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
+- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS, shipping ongoing updates &nbsp;<a href="https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="24" align="center"></a>
+- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard, 137+ one-click apps &nbsp;<a href="https://apps.apple.com/us/app/homelabarr-mobile/id6761244772"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="24" align="center"></a>
 - [cf-companion](https://github.com/smashingtags/cf-companion): auto-create Cloudflare DNS records for Traefik containers
 - [IPAC](https://github.com/smashingtags/ipac): Integrated Personality as Code
 - [Operator Kit](https://github.com/smashingtags/operator-kit): OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
@@ -83,7 +76,7 @@ Twelve-plus years in technical program and product management before that. Previ
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
 
 #### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![SnapRAID](https://img.shields.io/badge/SnapRAID-1F4E79?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![SnapRAID](https://img.shields.io/badge/SnapRAID-1F4E79?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Tooling
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-6E40C9?style=for-the-badge) ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
