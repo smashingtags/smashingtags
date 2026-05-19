@@ -28,8 +28,8 @@ Twelve-plus years in technical program and product management before that. Previ
 **Active products:**
 - [Eight.ly OS](https://eight.ly): homelab operating system featuring NAS + Virtualization + Container management.
 - [Eight.ly Backup Server](https://github.com/smashingtags/eightly-backup-server): Standalone backup server for Eight.ly OS with dedup + encryption
-- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS
-- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard, 137+ one-click apps (3,400+ templates available in the full Eight.ly catalog)
+- [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710): daily wellness companion for iOS live on the App Store, shipping ongoing updates ([App Store →](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710))
+- [HomelabARR CE](https://github.com/smashingtags/homelabarr-ce): free homelab dashboard, 137+ one-click apps ([App Store →] (https://apps.apple.com/us/app/homelabarr-mobile/id6761244772))
 - [cf-companion](https://github.com/smashingtags/cf-companion): auto-create Cloudflare DNS records for Traefik containers
 - [IPAC](https://github.com/smashingtags/ipac): Integrated Personality as Code
 - [Operator Kit](https://github.com/smashingtags/operator-kit): OpenClaw plugin that scaffolds a complete AI operator (identity, memory, instincts, cron, agents) in one install · [npm](https://www.npmjs.com/package/@imogenlabs/operator-kit)
@@ -37,10 +37,6 @@ Twelve-plus years in technical program and product management before that. Previ
 ### Currently building
 
 - **Eight.ly OS Professional**: R730XD storage testing with SnapRAID + MergerFS, CI pipeline green, Docker image on GHCR
-- **NeuroHelper**: live on the App Store, shipping ongoing updates ([App Store →](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710))
-- **OpenClaw Managed Hosting**: automated Stripe → Hetzner LXC provisioning, Traefik routing, AgentMail onboarding ($29-89/mo)
-- **MediaClaw**: managed Plex + arr-stack hosting on Hetzner bare metal ($19-129/mo)
-- **Operator Kit**: [@imogenlabs/operator-kit on npm](https://www.npmjs.com/package/@imogenlabs/operator-kit), shipping new templates
 
 ### How I work
 
