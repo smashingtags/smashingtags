@@ -1,4 +1,5 @@
-# Michael Ashley 📍 Duluth, GA
+# Michael Ashley 
+📍 Duluth, GA
 
 ## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
 
