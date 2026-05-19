@@ -4,12 +4,12 @@
 
 Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software
 
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> &nbsp; [mjashley](https://www.linkedin.com/in/mjashley/)
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> &nbsp; [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
 
 > **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.**
 >
 > 
-📍 Duluth, GA
+
 
 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 💾 [eight.ly](https://eight.ly) · 🏠 [homelabarr.com](https://homelabarr.com)
 
