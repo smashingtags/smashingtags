@@ -10,15 +10,15 @@ Senior Product / Program / Technical PM · 7 years Scrum · Building agentic sof
 
 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 💾 [eight.ly](https://eight.ly) · 🏠 [homelabarr.com](https://homelabarr.com)
 
+### Certifications
+
+<a href="https://www.credly.com/badges/57b7315d-9c49-400d-91ed-78f27f0041c5" title="Professional Scrum Master I (PSM I)"><img src="./psm-i-badge.png" alt="PSM I" width="80" height="80"></a><a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/badges/sa-cspo-300.png" alt="CSPO" width="80" height="80"></a><a href="https://www.credly.com/badges/da7c17ea-e07b-4fc5-858c-b8e81309a2c5" title="SAFe 6 Agilist (SA)"><img src="https://github.com/user-attachments/assets/551aafad-5072-440c-b22d-793eaffed07f" alt="SAFe 6 Agilist" width="80" height="80"></a>
+
 ### About
 
 I run a one-person software company that ships real products with an AI engineering partner. Every product, from a NAS operating system to an iOS wellness app, is designed, developed, and operated with AI in the loop as the actual workflow, not a demo. **14 products shipped, zero investors**, self-hosted on my own Proxmox cluster with 99.9% 30-day uptime.
 
 Twelve-plus years in technical program and product management before that. Previously Software PM at Nephtune Technology Group (12 Scrum teams, .NET MAUI platform), Senior TPM at Healthcare Integrations (SaaS portfolio), and TPM at G5 TEK.
-
-### Certifications
-
-<a href="https://www.credly.com/badges/57b7315d-9c49-400d-91ed-78f27f0041c5" title="Professional Scrum Master I (PSM I)"><img src="./psm-i-badge.png" alt="PSM I" width="80" height="80"></a><a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/badges/sa-cspo-300.png" alt="CSPO" width="80" height="80"></a><a href="https://www.credly.com/badges/da7c17ea-e07b-4fc5-858c-b8e81309a2c5" title="SAFe 6 Agilist (SA)"><img src="https://github.com/user-attachments/assets/551aafad-5072-440c-b22d-793eaffed07f" alt="SAFe 6 Agilist" width="80" height="80"></a>
 
 **Active products:**
 - [Eight.ly OS](https://eight.ly): homelab operating system featuring NAS + Virtualization + Container management.
