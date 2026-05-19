@@ -1,10 +1,10 @@
-# Michael Ashley
+# Michael Ashley 📍 Duluth, GA
 
 ## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
 
 Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software
 
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 
 
 > **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.**
 
