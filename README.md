@@ -1,7 +1,7 @@
-# Michael Ashley 
-📍 Duluth, GA
+# Michael Ashley
 
-## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
+
+## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)📍 Duluth, GA
 
 Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software
 
