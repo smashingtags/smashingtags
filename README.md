@@ -84,7 +84,7 @@ Twelve-plus years in technical program and product management before that. Previ
 
 ### Writing
 
-Building in public. 54+ posts on real engineering problems, agentic dev workflows, and shipping software with an AI partner.
+Building in public. Posts on real engineering problems, agentic dev workflows, and shipping software with a AI.
 
 [Read the blog →](https://mjashley.com/writing)
 
