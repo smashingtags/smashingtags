@@ -7,7 +7,7 @@
 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
 
-> **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.** 
+> **Currently exploring Principal TPM and Director of Product roles. Building AI-native infrastructure and enterprise SaaS. Open to remote or hybrid.** 
 
 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 💾 [eight.ly](https://eight.ly) · 🏠 [homelabarr.com](https://homelabarr.com)
 
