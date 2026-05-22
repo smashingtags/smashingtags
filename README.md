@@ -3,17 +3,14 @@
 
 ## Technical Program Director & Founder, [Imogen Labs](https://imogenlabs.ai)
 
-Senior Product / Program / Technical PM · 7 years Scrum · Building agentic software 📍 Duluth, GA
+**Principal Technical Product Manager | Bridging AI Engineering with Business Strategy | Enterprise SaaS, CI/CD & Systems Architecture** 
 
-<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
 
-> **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.**
+> **Looking for my next product, program, or project management role in AI software development. Senior IC through Director. Full-time, remote or hybrid, open to relocation for the right team.** 
 
 🌐 [mjashley.com](https://mjashley.com) · 🏗️ [imogenlabs.ai](https://imogenlabs.ai) · 💾 [eight.ly](https://eight.ly) · 🏠 [homelabarr.com](https://homelabarr.com)
 
-### Certifications
-
-<a href="https://www.credly.com/badges/57b7315d-9c49-400d-91ed-78f27f0041c5" title="Professional Scrum Master I (PSM I)"><img src="./psm-i-badge.png" alt="PSM I" width="80" height="80"></a><a href="https://www.scrumalliance.org/members/1591303" title="Certified Scrum Product Owner (CSPO)"><img src="https://www.scrumalliance.org/badges/sa-cspo-300.png" alt="CSPO" width="80" height="80"></a><a href="https://www.credly.com/badges/da7c17ea-e07b-4fc5-858c-b8e81309a2c5" title="SAFe 6 Agilist (SA)"><img src="https://github.com/user-attachments/assets/551aafad-5072-440c-b22d-793eaffed07f" alt="SAFe 6 Agilist" width="80" height="80"></a>
 
 ### About
 
