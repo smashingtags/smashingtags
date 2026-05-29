@@ -3,7 +3,7 @@
 
 ## Principal Technical Product Manager | Bridging AI Engineering with Business Strategy
 
-** Enterprise SaaS, CI/CD & Systems Architecture** 
+**Enterprise SaaS, CI/CD & Systems Architecture** 
 
 <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> [mjashley](https://www.linkedin.com/in/mjashley/) 📍 Duluth, GA
 
