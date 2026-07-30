@@ -14,7 +14,7 @@
 
 ### About
 
-I founded a software company that ships real products with an AI first mindset. Every product, from a NAS operating system to an iOS wellness app, is designed, developed, and deployed with AI in the loop of the actual workflow, not a demo. **14 products shipped, zero investors**
+I founded a software company that ships products with an AI first mindset. Every product, from a NAS operating system to an iOS wellness app, is designed, developed, and deployed with AI in the loop of the workflow. **14 products shipped, zero investors**
 
 Twelve-plus years in technical program and product management before that. Previously Software PM at Neptune Technology Group (12 Scrum teams, .NET MAUI platform), Senior TPM at Healthcare Integrations (SaaS portfolio), and TPM at G5 TEK.
 
@@ -81,7 +81,7 @@ Twelve-plus years in technical program and product management before that. Previ
 
 ### Writing
 
-Building in public. Posts on real engineering problems, agentic dev workflows, and shipping software with a AI.
+Building in public. Posts on engineering problems, agentic dev workflows, and shipping software with AI.
 
 [Read the blog →](https://mjashley.com/writing)
 
