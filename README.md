@@ -1,7 +1,7 @@
 # Michael Ashley
 
 
-## Principal Technical Product Manager | Bridging AI Engineering with Business Strategy
+## Bridging AI Engineering with Business Strategy
 
 **Enterprise SaaS, CI/CD & Systems Architecture** 
 
