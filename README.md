@@ -1,10 +1,10 @@
 <!--
-  Numbers in this file are generated. Do not hand-edit anything between
-  <!--auto:NAME--> and <!--/auto--> markers; .github/workflows/refresh-readme.yml
-  rewrites them daily from the real source and commits only when one changes.
+  Numbers in this file are generated. Do not hand-edit anything between the
+  auto markers; .github/workflows/refresh-readme.yml rewrites them daily from
+  the real source and commits only when one changes.
 
-  A number nothing can check is worse than no number, so anything without a live
-  source was removed rather than typed in and left to rot.
+  A number nothing can check is worse than no number, so anything without a
+  live source was removed rather than typed in and left to rot.
 -->
 
 # Michael Ashley
