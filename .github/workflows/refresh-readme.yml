@@ -1,0 +1,50 @@
+# Keeps the generated numbers in README.md true.
+#
+# A profile README is read by people deciding whether to talk to you, and a
+# number in it is a claim with a shelf life. This refreshes the ones that have a
+# checkable source and writes nothing at all when a source cannot be read, so the
+# failure mode is a red run rather than a confident wrong number.
+name: Refresh README numbers
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, off the hour so it is not fighting everyone else's cron
+  workflow_dispatch:        # so it can be fired by hand and watched
+  push:
+    paths:
+      - scripts/refresh-readme.py
+      - .github/workflows/refresh-readme.yml
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: true
+
+permissions:
+  contents: write   # this job commits the README; a bare `permissions:` block
+                    # REPLACES the defaults, so checkout needs this too
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Rewrite the generated spans
+        env:
+          # Optional. Without these the SDLC sentence is written with no count,
+          # which is the honest form rather than a stale one.
+          JIRA_EMAIL: ${{ secrets.JIRA_EMAIL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+        run: python3 scripts/refresh-readme.py
+
+      - name: Commit if a number actually changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "no number changed today"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Refresh README numbers from source"
+          git push
