@@ -41,7 +41,7 @@ Twelve years in technical program and product management. Software PM at Neptune
 
 ### How I work
 
-**A real SDLC, not a story about one.**<!--auto:jira--> 2,864 tracked issues across the active projects.<!--/auto--> Every change starts as a Jira ticket with acceptance criteria and story points, moves through a sprint, and stops at QA for a human. Architecture decisions, runbooks and process manuals live in Confluence and render at [docs.mjashley.com](https://docs.mjashley.com).
+**A real SDLC, not a story about one.**<!--auto:jira--><!--/auto--> Every change starts as a Jira ticket with acceptance criteria and story points, moves through a sprint, and stops at QA for a human. Architecture decisions, runbooks and process manuals live in Confluence and render at [docs.mjashley.com](https://docs.mjashley.com).
 
 **AI does the typing. I own the architecture.** Scope, sequencing and acceptance criteria are mine. Agents implement inside a written contract that caps file size, forces decomposition and bars them from pushing to main. Every change is reviewed in a browser against the running dev environment before it ships, and a second model audits the result.
 
@@ -57,4 +57,4 @@ Go · TypeScript · React · SwiftUI · Python · SQLite · Docker · KVM/QEMU �
 
 [![Contribution graph](https://ghchart.rshah.org/409ba5/smashingtags)](https://github.com/smashingtags)
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-03<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-04<!--/auto-->.</sub>
