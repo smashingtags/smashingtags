@@ -43,6 +43,22 @@ def ce_app_count():
     return uniq[0]
 
 
+def npm_downloads():
+    """shields.io's npm/dt endpoint is rate limited often enough that the badge
+    renders "rate limited by upstream service" on the profile. npm's own API is
+    not, so the number is fetched here and baked into a static badge instead."""
+    url = os.environ.get(
+        "NPM_DOWNLOADS_URL",
+        "https://api.npmjs.org/downloads/point/last-year/@imogenlabs/operator-kit",
+    )
+    n = json.loads(get(url))["downloads"]
+    label = f"{n:,}".replace(",", "%2C")
+    # The whole badge is emitted, never just the number: an HTML comment inside a
+    # markdown image URL breaks the image.
+    return (f"[![npm downloads](https://img.shields.io/badge/npm%20downloads-{label}"
+            f"-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)")
+
+
 def jira_clause():
     """Optional. Needs JIRA_EMAIL + JIRA_API_TOKEN repo secrets.
 
@@ -82,7 +98,7 @@ def main():
     original = text
     failures = []
 
-    for name, fn in (("ce-apps", ce_app_count), ("jira", jira_clause)):
+    for name, fn in (("ce-apps", ce_app_count), ("npm-dl", npm_downloads), ("jira", jira_clause)):
         try:
             text = replace(text, name, fn())
         except Exception as e:            # noqa: BLE001 - report every source, then fail once

@@ -51,10 +51,6 @@ Twelve years in technical program and product management. Software PM at Neptune
 
 ### By the numbers
 
-Every badge below reads its own live source, so none of them can go stale. The two
-that used to be typed in by hand are gone: a 99.9% uptime figure nothing could check,
-and a services-in-production count that had drifted.
-
 [![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=smashingtags&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/smashingtags)
 
 [![Contribution graph](https://ghchart.rshah.org/409ba5/smashingtags)](https://github.com/smashingtags)
@@ -66,7 +62,7 @@ and a services-in-production count that had drifted.
 ![Products shipped](https://img.shields.io/badge/products%20shipped-14-success?style=for-the-badge) ![Investors](https://img.shields.io/badge/investors-0-lightgrey?style=for-the-badge) [![GHCR](https://img.shields.io/badge/GHCR-packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smashingtags?tab=packages)
 
 #### npm
-[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge&label=npm&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) [![npm downloads](https://img.shields.io/npm/dt/@imogenlabs/operator-kit?style=for-the-badge&label=npm%20downloads&color=crimson)](https://www.npmjs.com/package/@imogenlabs/operator-kit)
+[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge&label=npm&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-408-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
 
 #### Docker Hub
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-smashingtags-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/smashingtags) [![Agent pulls](https://img.shields.io/docker/pulls/smashingtags/eightly-agent?style=for-the-badge&label=eightly-agent%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/eightly-agent) [![HomelabARR backend pulls](https://img.shields.io/docker/pulls/smashingtags/homelabarr-backend?style=for-the-badge&label=homelabarr-backend%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/homelabarr-backend) [![HomelabARR frontend pulls](https://img.shields.io/docker/pulls/smashingtags/homelabarr-frontend?style=for-the-badge&label=homelabarr-frontend%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/homelabarr-frontend)
