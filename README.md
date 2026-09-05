@@ -89,4 +89,4 @@ Twelve years in technical program and product management. Software PM at Neptune
 
 ---
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-04<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-05<!--/auto-->.</sub>
