@@ -62,7 +62,7 @@ Twelve years in technical program and product management. Software PM at Neptune
 ![Products shipped](https://img.shields.io/badge/products%20shipped-14-success?style=for-the-badge) ![Investors](https://img.shields.io/badge/investors-0-lightgrey?style=for-the-badge) [![GHCR](https://img.shields.io/badge/GHCR-packages-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smashingtags?tab=packages)
 
 #### npm
-[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge&label=npm&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-408-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
+[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge&label=npm&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-418-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
 
 #### Docker Hub
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-smashingtags-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/smashingtags) [![Agent pulls](https://img.shields.io/docker/pulls/smashingtags/eightly-agent?style=for-the-badge&label=eightly-agent%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/eightly-agent) [![HomelabARR backend pulls](https://img.shields.io/docker/pulls/smashingtags/homelabarr-backend?style=for-the-badge&label=homelabarr-backend%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/homelabarr-backend) [![HomelabARR frontend pulls](https://img.shields.io/docker/pulls/smashingtags/homelabarr-frontend?style=for-the-badge&label=homelabarr-frontend%20pulls&color=2496ED&logo=docker&logoColor=white)](https://hub.docker.com/r/smashingtags/homelabarr-frontend)
@@ -89,4 +89,4 @@ Twelve years in technical program and product management. Software PM at Neptune
 
 ---
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-06<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-09-07<!--/auto-->.</sub>
