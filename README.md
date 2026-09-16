@@ -41,7 +41,7 @@ Twelve years in technical program and product management. Software PM at Neptune
 
 ### How I work
 
-**A real SDLC, not a story about one.**<!--auto:jira--><!--/auto--> Every change starts as a Jira ticket with acceptance criteria and story points, moves through a sprint, and stops at QA for a human. Architecture decisions, runbooks and process manuals live in Confluence and render at [docs.mjashley.com](https://docs.mjashley.com).
+**An SDLC, not a story about one.**<!--auto:jira--><!--/auto--> Every change starts as a Jira ticket with acceptance criteria and story points, moves through a sprint, and stops at QA for a human. Architecture decisions, runbooks and process manuals live in Confluence and render at [docs.mjashley.com](https://docs.mjashley.com).
 
 **AI does the typing. I own the architecture.** Scope, sequencing and acceptance criteria are mine. Agents implement inside a written contract that caps file size, forces decomposition and bars them from pushing to main. Every change is reviewed in a browser against the running dev environment before it ships, and a second model audits the result.
 
