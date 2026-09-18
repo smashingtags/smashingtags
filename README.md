@@ -8,8 +8,8 @@
 -->
 
 # Michael Ashley
-
-**I build my own tools, ship them, and run production on them.**
+## Senior Technical Program Leader · Founder, Imogen Labs
+**I lead complex software programs and build production systems.**
 
 Fourteen products, zero investors. A NAS operating system, a deduplicating backup server, an iOS wellness app, a homelab dashboard. My own infrastructure runs on the operating system I wrote, which replaced the Proxmox and Unraid installs it grew out of.
 
