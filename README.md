@@ -70,7 +70,7 @@ Deduplicating backup with content-defined chunking, AES-256-GCM encryption, rete
 
 Remote Docker management for systems you are not sitting in front of. Apache 2.0, signed binaries, provenance, SBOMs, and multiple security reviews.
 
-### [HomelabARR CE](https://github.com/imogenlabs/homelabarr-ce)
+### [HomelabARR](https://github.com/imogenlabs/homelabarr-ce)
 
 A self-hosted homelab dashboard with <!--auto:ce-apps-->117<!--/auto--> applications, multiple deployment modes, a [live demo](https://ce-demo.homelabarr.com), and an [iOS companion app](https://apps.apple.com/us/app/homelabarr-mobile/id6761244772).
 
