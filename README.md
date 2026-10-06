@@ -127,7 +127,7 @@ Not everything here lives in repositories I control.
 
 ### npm
 
-[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-438-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
+[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-445-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
 
 ### Docker Hub
 
@@ -171,4 +171,4 @@ Not everything here lives in repositories I control.
 
 [mjashley.com](https://mjashley.com) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · [Email](mailto:michael@mjashley.com)
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-10-05<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-10-06<!--/auto-->.</sub>
