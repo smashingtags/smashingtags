@@ -72,7 +72,7 @@ Remote Docker management for systems you are not sitting in front of. Apache 2.0
 
 ### [HomelabARR](https://github.com/imogenlabs/homelabarr-ce)
 
-A self-hosted homelab dashboard with <!--auto:ce-apps-->117<!--/auto--> applications, multiple deployment modes, a [live demo](https://ce-demo.homelabarr.com), and an [iOS companion app](https://apps.apple.com/us/app/homelabarr-mobile/id6761244772).
+A self-hosted homelab dashboard with <!--auto:ce-apps-->118<!--/auto--> applications, multiple deployment modes, a [live demo](https://ce-demo.homelabarr.com), and an [iOS companion app](https://apps.apple.com/us/app/homelabarr-mobile/id6761244772).
 
 ### [NeuroHelper](https://apps.apple.com/us/app/neurohelper-daily-wellness/id6760686710)
 
@@ -127,7 +127,7 @@ Not everything here lives in repositories I control.
 
 ### npm
 
-[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-448-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
+[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-449-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
 
 ### Docker Hub
 
@@ -171,4 +171,4 @@ Not everything here lives in repositories I control.
 
 [mjashley.com](https://mjashley.com) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · [Email](mailto:michael@mjashley.com)
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-10-09<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-10-10<!--/auto-->.</sub>
