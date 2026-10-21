@@ -93,6 +93,8 @@ Watches Docker events and automatically creates Cloudflare DNS records for Traef
 Not everything here lives in repositories I control.
 
 * **[OmniVoice — Intel XPU / Intel Arc GPU inference support](https://github.com/k2-fsa/OmniVoice/pull/55)** — upstream contribution adding Intel GPU support.
+* **[Claude Mem — Hermes Agent memory support](https://github.com/thedotmack/claude-mem/pull/4905)** and **[its config.yaml hardening fix](https://github.com/thedotmack/claude-mem/pull/4914)** — merged upstream in October 2026.
+* **[Docker Agent — A2A 1.0 agent cards in the a2a toolset](https://github.com/docker/docker-agent/pull/4572)** — merged upstream by Docker in October 2026.
 * **Apple App Store** — production iOS applications shipped publicly.
 * **Docker Hub / GHCR / npm** — distributed software and packages used outside my local environment.
 * **Open source** — production code, documentation, releases, and issues are public rather than represented only as portfolio screenshots.
