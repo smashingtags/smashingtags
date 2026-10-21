@@ -13,7 +13,7 @@
 
 **I lead complex software programs and stay close enough to the technology to understand what I am asking teams to build.**
 
-12+ years across enterprise SaaS, cloud, infrastructure, IoT, integrations, and technical program management. Most recently, I led work across **12 Scrum teams** on a .NET MAUI platform at Neptune Technology Group, coordinating engineering, QA, product, CloudOps, dependencies, delivery risk, and executive reporting.
+8+ years across enterprise SaaS, cloud, infrastructure, IoT, integrations, and technical program management. Most recently, I led work across **12 Scrum teams** on a .NET MAUI platform at Neptune Technology Group, coordinating engineering, QA, product, CloudOps, dependencies, delivery risk, and executive reporting.
 
 Outside the day job, I build and operate production software through **[Imogen Labs](https://imogenlabs.ai)**. That work gives me firsthand experience with architecture, APIs, containers, authentication, CI/CD, observability, security, infrastructure, AI-assisted development, and the tradeoffs engineering teams make every day.
 
