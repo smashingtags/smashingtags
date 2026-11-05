@@ -24,9 +24,22 @@ Outside the day job, I build and operate production software through **[Imogen L
 
 ---
 
+## External proof
+
+Work reviewed and accepted by maintainers I do not control.
+
+* **[OmniVoice — Intel XPU / Intel Arc GPU inference support](https://github.com/k2-fsa/OmniVoice/pull/55)** — merged upstream in May 2026, adding Intel GPU support.
+* **[Claude Mem — Hermes Agent memory support](https://github.com/thedotmack/claude-mem/pull/4905)** and **[its config.yaml hardening fix](https://github.com/thedotmack/claude-mem/pull/4914)** — merged upstream in October 2026.
+* **[Docker Agent — A2A 1.0 agent cards in the a2a toolset](https://github.com/docker/docker-agent/pull/4572)** — merged upstream by Docker in October 2026.
+* **Apple App Store** — production iOS applications shipped publicly.
+* **Docker Hub / GHCR / npm** — distributed software and packages used outside my local environment.
+* **Open source** — production code, documentation, releases, and issues are public rather than represented only as portfolio screenshots.
+
+---
+
 ## Technical program leadership
 
-I have spent more than a decade working where engineering execution, product priorities, and business outcomes have to line up.
+My work sits where engineering execution, product priorities, and business outcomes have to line up.
 
 At Neptune Technology Group, I ran program execution across **12 Scrum teams** delivering software for connected-device and cloud platforms. Before that, I led SaaS programs at Healthcare Integrations and technical projects at G5 TEK.
 
@@ -38,13 +51,11 @@ The work is familiar: roadmap alignment, sprint execution, cross-team dependenci
 
 ## Why the engineering work matters
 
-I do not build software because I am trying to leave program management.
-
-I build because it makes me better at it.
+Building and operating real software makes me a better program leader.
 
 Through Imogen Labs, I have taken products from idea to production across infrastructure, AI, mobile, storage, backup, developer tooling, and open source. I write requirements, define architecture, manage backlogs, use AI-assisted implementation, review the running product, test failure cases, run security reviews, ship releases, and operate the systems afterward.
 
-That means when an engineering team talks about container networking, authentication, deployment pipelines, observability, API contracts, technical debt, model behavior, or production failure modes, I do not need the simplified version.
+That means when an engineering team talks about container networking, authentication, deployment pipelines, observability, API contracts, technical debt, model behavior, or production failure modes, I can engage on the substance and spot risk early.
 
 ### Human-led delivery. AI-augmented implementation.
 
@@ -88,28 +99,13 @@ Watches Docker events and automatically creates Cloudflare DNS records for Traef
 
 ---
 
-## External proof
-
-Not everything here lives in repositories I control.
-
-* **[OmniVoice — Intel XPU / Intel Arc GPU inference support](https://github.com/k2-fsa/OmniVoice/pull/55)** — merged upstream in May 2026, adding Intel GPU support.
-* **[Claude Mem — Hermes Agent memory support](https://github.com/thedotmack/claude-mem/pull/4905)** and **[its config.yaml hardening fix](https://github.com/thedotmack/claude-mem/pull/4914)** — merged upstream in October 2026.
-* **[Docker Agent — A2A 1.0 agent cards in the a2a toolset](https://github.com/docker/docker-agent/pull/4572)** — merged upstream by Docker in October 2026.
-* **Apple App Store** — production iOS applications shipped publicly.
-* **Docker Hub / GHCR / npm** — distributed software and packages used outside my local environment.
-* **Open source** — production code, documentation, releases, and issues are public rather than represented only as portfolio screenshots.
-
----
-
 ## How I work
 
-**An SDLC, not a story about one.**<!--auto:jira--><!--/auto--> Every change starts as tracked work with acceptance criteria, moves through a sprint or delivery queue, and stops for human validation before production. Architecture decisions, runbooks, and process documentation live alongside the products they support.
+**An SDLC, not a story about one.**<!--auto:jira--><!--/auto--> Tracked work, acceptance criteria, human validation before production, and architecture decisions and runbooks kept alongside the code.
 
-**Architecture and accountability stay human-owned.** AI can implement quickly. It does not get to decide what “done” means. Scope, sequencing, architecture, acceptance criteria, browser review, security review, and production ownership remain human responsibilities.
+**Guardrails have to prove they work.** Automated release gates are tested against real failure cases, not assumed.
 
-**Guardrails have to prove they work.** Automated gates block bad releases for formatting, oversized files, undocumented work, failed tests, or unverified claims. A guardrail is only useful if it has been tested against a real failure case.
-
-**I operate what I ship.** My infrastructure runs on the software I build: bare-metal nodes, Docker, reverse proxying, Cloudflare tunnels, self-hosted GitHub Actions runners, multi-architecture builds, monitoring, storage, and backup.
+**I operate what I ship.** My own infrastructure runs on the software I build, from bare metal to CI runners, monitoring, and backup.
 
 ---
 
