@@ -125,7 +125,7 @@ Watches Docker events and automatically creates Cloudflare DNS records for Traef
 
 ### npm
 
-[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-496-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
+[![npm version](https://img.shields.io/npm/v/@imogenlabs/operator-kit?style=for-the-badge\&label=npm\&color=red)](https://www.npmjs.com/package/@imogenlabs/operator-kit) <!--auto:npm-dl-->[![npm downloads](https://img.shields.io/badge/npm%20downloads-497-crimson?style=for-the-badge)](https://www.npmjs.com/package/@imogenlabs/operator-kit)<!--/auto-->
 
 ### Docker Hub
 
@@ -169,4 +169,4 @@ Watches Docker events and automatically creates Cloudflare DNS records for Traef
 
 [mjashley.com](https://mjashley.com) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · [Email](mailto:michael@mjashley.com)
 
-<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-11-08<!--/auto-->.</sub>
+<sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-11-09<!--/auto-->.</sub>
