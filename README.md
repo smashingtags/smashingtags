@@ -9,13 +9,13 @@
 
 # Michael Ashley
 
-## Senior Technical Program Leader · Founder, Imogen Labs
+## Senior Technical Program Leader
 
 **I lead complex software programs and stay close enough to the technology to understand what I am asking teams to build.**
 
 8+ years across enterprise SaaS, cloud, infrastructure, IoT, integrations, and technical program management. Most recently, I led work across **12 Scrum teams** on a .NET MAUI platform at Neptune Technology Group, coordinating engineering, QA, product, CloudOps, dependencies, delivery risk, and executive reporting.
 
-Outside the day job, I build and operate production software through **[Imogen Labs](https://imogenlabs.ai)**. That work gives me firsthand experience with architecture, APIs, containers, authentication, CI/CD, observability, security, infrastructure, AI-assisted development, and the tradeoffs engineering teams make every day.
+Outside the day job, I build and operate production software through **[Imogen Labs](https://imogenlabs.ai)**. That work gives me firsthand experience with architecture, APIs, containers, authentication, CI/CD, observability, security, infrastructure, AI-assisted development, and the trade-offs engineering teams make every day.
 
 **Target roles:** Senior / Principal Technical Program Manager
 **Focus:** AI · Enterprise SaaS · Cloud · Infrastructure · Developer Platforms
@@ -164,9 +164,6 @@ Watches Docker events and automatically creates Cloudflare DNS records for Traef
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
 
 ---
-
-**Open to Senior and Principal Technical Program Manager roles in AI, enterprise software, cloud infrastructure, and developer platforms.**
-
 [mjashley.com](https://mjashley.com) · [LinkedIn](https://www.linkedin.com/in/mjashley/) · [Email](mailto:michael@mjashley.com)
 
 <sub>Counts above are refreshed daily from their sources by <a href="https://github.com/smashingtags/smashingtags/actions/workflows/refresh-readme.yml">a workflow in this repo</a>. Last checked <!--auto:checked-->2026-11-24<!--/auto-->.</sub>
